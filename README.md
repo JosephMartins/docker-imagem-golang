@@ -2,7 +2,7 @@
 
 ##Desafio 01
 
-<p>Esse desafio é proposto no modulo de docker que foi proposto pelo curso FullCycle</p>
+<p>Esse desafio foi proposto pelo curso FullCycle</p>
 <p>Para concluir a primeira etapa do desafio, devo criar um hello world utilizando a linguagem Go-Lang, dentro de uma imagem Docker, em seguida devo otimizar uma nova imagem docker apenas para executar a minha aplicação.</p>
 
 ##Techs utilizadas
